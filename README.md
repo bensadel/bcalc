@@ -1,4 +1,4 @@
-# bcalc - the insanely simple calculator for macOS
+# bcalc - the insanely simple command line calculator for macOS
 
 [![Static Badge](https://img.shields.io/badge/Homebrew_tap-HERE-red)](https://github.com/bensadel/homebrew-tap)
 [![Static Badge](https://img.shields.io/badge/About_me-HERE-blue)](https://bensadel.xyz)
