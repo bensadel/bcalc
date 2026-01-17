@@ -9,8 +9,8 @@
 - bcalc is the dumbed down version of bc, or in simple terms, a very basic terminal calculator for macOS
 
 ## Why use bcalc?
-- you want a more streamlined terminal calculator for macOS
-- you don't need a fancy calculator but rather just the essentials
+- you want a more streamlined terminal calculator for macOS terminal
+- you don't need a fancy cli calculator but rather just the essentials
 - you live in the command line
 
 ## How to install/use bcalc?
