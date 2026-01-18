@@ -3,7 +3,7 @@
 [![Static Badge](https://img.shields.io/badge/Homebrew_tap-HERE-red)](https://github.com/bensadel/homebrew-tap)
 [![Static Badge](https://img.shields.io/badge/About_me-HERE-blue)](https://bensadel.xyz)
 
-<img width="1118" height="370" alt="picture.png" src="/assets/picture.png" />
+<img width="100%" height="100%" alt="picture.png" src="assets/picture.png" />
 
 ## What is bcalc?
 - bcalc is the dumbed down version of bc, or in simple terms, a very basic terminal calculator for macOS
@@ -19,6 +19,6 @@
 tap bensadel/tap
 ```
 ```
-brew install bensadel/tap/bcalc
+brew install bcalc
 ```
 - after installing, you can invoke bcalc by typing bcalc
